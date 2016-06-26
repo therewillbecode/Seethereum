@@ -1,0 +1,2 @@
+# Seethereum
+Etherium mining visualisations
